@@ -4,7 +4,11 @@
     },
     "Material Editor": {
         "Recent Files": [
+            "%engine%/engineassets/materials/sky/sky.mtl.cryasset",
             "%engine%/engineassets/materials/water/ocean_default.mtl.cryasset"
         ]
+    },
+    "QFilteringPanel": {
+        "AssetBrowser": null
     }
 }

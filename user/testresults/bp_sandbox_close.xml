@@ -1,0 +1,790 @@
+<root>
+	<thread name="Main" totalTimeMS="3083.619629" startTime="11392145041" stopTime="11402360163" totalBlocks="1697"> 
+		<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/QT/QtMainFrame.cpp" totalTimeMS="3083.584229" startTime="11392145153" stopTime="11402360158" args=""> 
+			<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/QT/QtMainFrame.cpp" totalTimeMS="20.941195" startTime="11392145155" stopTime="11392214527" args=""> 
+			</block>
+			<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/QT/QToolTabManager.cpp" totalTimeMS="3054.992920" startTime="11392215368" stopTime="11402335658" args=""> 
+				<block name="System: Update" totalTimeMS="0.159386" startTime="11398677289" stopTime="11398677817" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.158481" startTime="11398677291" stopTime="11398677816" args=""> 
+					</block>
+				</block>
+				<block name="CRenderViewport::Update" totalTimeMS="5.903333" startTime="11398691825" stopTime="11398711381" args=""> 
+					<block name="CSystem::RenderEnd" totalTimeMS="5.880994" startTime="11398691885" stopTime="11398711367" args=""> 
+						<block name="CD3D9Renderer::EndFrame" totalTimeMS="5.878278" startTime="11398691893" stopTime="11398711366" args=""> 
+							<block name="Wait - SyncMainWithRender" totalTimeMS="5.872542" startTime="11398691911" stopTime="11398711365" args=""> 
+							</block>
+						</block>
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="2.085909" startTime="11398787750" stopTime="11398794660" args=""> 
+					<block name="CSystem::Update" totalTimeMS="2.085607" startTime="11398787751" stopTime="11398794660" args=""> 
+						<block name="CLog::Update" totalTimeMS="1.951275" startTime="11398787771" stopTime="11398794235" args=""> 
+						</block>
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.140067" startTime="11401701657" stopTime="11401702121" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.139463" startTime="11401701658" stopTime="11401702120" args=""> 
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="1.060765" startTime="11401712540" stopTime="11401716054" args=""> 
+					<block name="CSystem::Update" totalTimeMS="1.060463" startTime="11401712541" stopTime="11401716054" args=""> 
+						<block name="CLog::Update" totalTimeMS="0.965978" startTime="11401712557" stopTime="11401715757" args=""> 
+						</block>
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.172065" startTime="11401795310" stopTime="11401795880" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.171461" startTime="11401795312" stopTime="11401795880" args=""> 
+					</block>
+				</block>
+				<block name="CRenderViewport::Update" totalTimeMS="0.541551" startTime="11401816232" stopTime="11401818026" args=""> 
+					<block name="CSystem::RenderEnd" totalTimeMS="0.521326" startTime="11401816291" stopTime="11401818018" args=""> 
+						<block name="CD3D9Renderer::EndFrame" totalTimeMS="0.518308" startTime="11401816300" stopTime="11401818017" args=""> 
+							<block name="Wait - SyncMainWithRender" totalTimeMS="0.512572" startTime="11401816319" stopTime="11401818017" args=""> 
+							</block>
+						</block>
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="1.102724" startTime="11401875486" stopTime="11401879139" args=""> 
+					<block name="CSystem::Update" totalTimeMS="1.102121" startTime="11401875488" stopTime="11401879139" args=""> 
+						<block name="CLog::Update" totalTimeMS="0.963261" startTime="11401875517" stopTime="11401878708" args=""> 
+						</block>
+					</block>
+				</block>
+				<block name="CRenderViewport::Update" totalTimeMS="0.318773" startTime="11401880625" stopTime="11401881681" args=""> 
+					<block name="CSystem::RenderEnd" totalTimeMS="0.280435" startTime="11401880744" stopTime="11401881673" args=""> 
+						<block name="CD3D9Renderer::EndFrame" totalTimeMS="0.278624" startTime="11401880750" stopTime="11401881673" args=""> 
+							<block name="Wait - SyncMainWithRender" totalTimeMS="0.274096" startTime="11401880764" stopTime="11401881672" args=""> 
+							</block>
+						</block>
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="1.470701" startTime="11401917785" stopTime="11401922657" args=""> 
+					<block name="CSystem::Update" totalTimeMS="1.470400" startTime="11401917786" stopTime="11401922657" args=""> 
+						<block name="CLog::Update" totalTimeMS="1.304372" startTime="11401917821" stopTime="11401922142" args=""> 
+						</block>
+					</block>
+				</block>
+				<block name="CRenderViewport::Update" totalTimeMS="4.026015" startTime="11401941541" stopTime="11401954878" args=""> 
+					<block name="CSystem::RenderEnd" totalTimeMS="3.989791" startTime="11401941646" stopTime="11401954863" args=""> 
+						<block name="CD3D9Renderer::EndFrame" totalTimeMS="3.984961" startTime="11401941661" stopTime="11401954862" args=""> 
+							<block name="Wait - SyncMainWithRender" totalTimeMS="3.977112" startTime="11401941686" stopTime="11401954861" args=""> 
+							</block>
+						</block>
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="1.406705" startTime="11402024952" stopTime="11402029612" args=""> 
+					<block name="CSystem::Update" totalTimeMS="1.406404" startTime="11402024952" stopTime="11402029611" args=""> 
+						<block name="CLog::Update" totalTimeMS="1.281430" startTime="11402024973" stopTime="11402029218" args=""> 
+						</block>
+					</block>
+				</block>
+				<block name="CRenderViewport::Update" totalTimeMS="0.575059" startTime="11402030784" stopTime="11402032689" args=""> 
+					<block name="CSystem::RenderEnd" totalTimeMS="0.550607" startTime="11402030862" stopTime="11402032686" args=""> 
+						<block name="CD3D9Renderer::EndFrame" totalTimeMS="0.548494" startTime="11402030868" stopTime="11402032685" args=""> 
+							<block name="Wait - SyncMainWithRender" totalTimeMS="0.544570" startTime="11402030881" stopTime="11402032685" args=""> 
+							</block>
+						</block>
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.151538" startTime="11402109741" stopTime="11402110243" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.151236" startTime="11402109742" stopTime="11402110243" args=""> 
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.134633" startTime="11402144766" stopTime="11402145212" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.134029" startTime="11402144768" stopTime="11402145212" args=""> 
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.152142" startTime="11402193540" stopTime="11402194044" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.151538" startTime="11402193541" stopTime="11402194043" args=""> 
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.127992" startTime="11402235342" stopTime="11402235766" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.127690" startTime="11402235343" stopTime="11402235766" args=""> 
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.140972" startTime="11402271915" stopTime="11402272382" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.140671" startTime="11402271916" stopTime="11402272382" args=""> 
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.114710" startTime="11402294653" stopTime="11402295033" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.114408" startTime="11402294654" stopTime="11402295033" args=""> 
+					</block>
+				</block>
+				<block name="System: Update" totalTimeMS="0.105050" startTime="11402306093" stopTime="11402306441" args=""> 
+					<block name="CSystem::Update" totalTimeMS="0.104748" startTime="11402306094" stopTime="11402306441" args=""> 
+					</block>
+				</block>
+			</block>
+			<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/IEditorImpl.cpp" totalTimeMS="7.390637" startTime="11402335674" stopTime="11402360157" args=""> 
+				<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/CryEditDoc.cpp" totalTimeMS="7.294643" startTime="11402335805" stopTime="11402359970" args=""> 
+					<block name="Notify Clear Level Contents" totalTimeMS="0.140972" startTime="11402335805" stopTime="11402336272" args=""> 
+					</block>
+					<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/GameEngine.cpp" totalTimeMS="7.009377" startTime="11402336676" stopTime="11402359896" args=""> 
+						<block name="D:/jk/workspace/gamesdk_release/Code/CryEngine/CryEntitySystem/EntitySystem.cpp" totalTimeMS="0.396957" startTime="11402336717" stopTime="11402338032" args=""> 
+						</block>
+						<block name="D:/jk/workspace/gamesdk_release/Code/CryEngine/Cry3DEngine/3dEngineLoad.cpp" totalTimeMS="5.931708" startTime="11402338103" stopTime="11402357753" args=""> 
+							<block name="CLog::LogV" totalTimeMS="0.240589" startTime="11402354321" stopTime="11402355118" args=""> 
+							</block>
+							<block name="CLog::LogV" totalTimeMS="0.108069" startTime="11402355132" stopTime="11402355490" args=""> 
+							</block>
+						</block>
+						<block name="D:/jk/workspace/gamesdk_release/Code/CryEngine/CryAction/CryAction.cpp" totalTimeMS="0.564493" startTime="11402358026" stopTime="11402359896" args=""> 
+						</block>
+					</block>
+				</block>
+			</block>
+		</block>
+	</thread>
+	<thread name="AudioMainThread" totalTimeMS="3083.619629" startTime="11392145041" stopTime="11402360163" totalBlocks="321"> 
+		<block name="Audio: Internal Update" totalTimeMS="29.966749" startTime="11392171882" stopTime="11392271153" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.966448" startTime="11392171882" stopTime="11392271152" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.988182" startTime="11392271169" stopTime="11392370511" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.987881" startTime="11392271169" stopTime="11392370510" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.004181" startTime="11392370526" stopTime="11392469921" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.003880" startTime="11392370526" stopTime="11392469920" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.982447" startTime="11392469972" stopTime="11392569295" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.982447" startTime="11392469972" stopTime="11392569295" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.988483" startTime="11392569299" stopTime="11392668642" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.987881" startTime="11392569299" stopTime="11392668640" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.009010" startTime="11392668657" stopTime="11392768068" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.009010" startTime="11392668657" stopTime="11392768068" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999048" startTime="11392768074" stopTime="11392867452" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999048" startTime="11392768074" stopTime="11392867452" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999352" startTime="11392867458" stopTime="11392966837" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999048" startTime="11392867458" stopTime="11392966836" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999954" startTime="11392966841" stopTime="11393066222" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999954" startTime="11392966841" stopTime="11393066222" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.984257" startTime="11393066226" stopTime="11393165555" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.983654" startTime="11393066227" stopTime="11393165554" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.015953" startTime="11393165562" stopTime="11393264996" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.015652" startTime="11393165562" stopTime="11393264995" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998446" startTime="11393265003" stopTime="11393364379" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.998144" startTime="11393265003" stopTime="11393364378" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.018671" startTime="11393364384" stopTime="11393463827" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.018671" startTime="11393364384" stopTime="11393463827" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998144" startTime="11393463831" stopTime="11393563206" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.998144" startTime="11393463831" stopTime="11393563206" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.968561" startTime="11393563210" stopTime="11393662487" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.967655" startTime="11393563211" stopTime="11393662485" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.033764" startTime="11393662501" stopTime="11393761994" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.033463" startTime="11393662501" stopTime="11393761993" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.977919" startTime="11393762000" stopTime="11393861308" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.977617" startTime="11393762000" stopTime="11393861307" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.988785" startTime="11393861348" stopTime="11393960692" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.988483" startTime="11393861348" stopTime="11393960691" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.004786" startTime="11393960742" stopTime="11394060139" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.004482" startTime="11393960742" stopTime="11394060138" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998144" startTime="11394060143" stopTime="11394159518" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.997540" startTime="11394060144" stopTime="11394159517" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.019274" startTime="11394159522" stopTime="11394258967" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.018972" startTime="11394159522" stopTime="11394258966" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.019274" startTime="11394258971" stopTime="11394358416" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.018972" startTime="11394258971" stopTime="11394358415" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.961920" startTime="11394358420" stopTime="11394457675" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.961920" startTime="11394358420" stopTime="11394457675" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.032557" startTime="11394457680" stopTime="11394557169" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.031952" startTime="11394457681" stopTime="11394557168" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.967655" startTime="11394557173" stopTime="11394656447" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.967051" startTime="11394557174" stopTime="11394656446" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.997841" startTime="11394656451" stopTime="11394755825" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.997841" startTime="11394656451" stopTime="11394755825" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.001465" startTime="11394755829" stopTime="11394855215" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.001465" startTime="11394755829" stopTime="11394855215" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.965843" startTime="11394855219" stopTime="11394954487" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.965240" startTime="11394855220" stopTime="11394954486" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.010218" startTime="11394954498" stopTime="11395053913" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.010218" startTime="11394954498" stopTime="11395053913" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.001766" startTime="11395053919" stopTime="11395153306" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.001465" startTime="11395053919" stopTime="11395153305" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999653" startTime="11395153309" stopTime="11395252689" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999048" startTime="11395153310" stopTime="11395252688" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.004786" startTime="11395252692" stopTime="11395352089" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.004181" startTime="11395252692" stopTime="11395352087" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.994823" startTime="11395352100" stopTime="11395451464" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.994520" startTime="11395352101" stopTime="11395451464" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.019577" startTime="11395451467" stopTime="11395550913" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.019274" startTime="11395451467" stopTime="11395550912" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.986069" startTime="11395550958" stopTime="11395650293" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.985767" startTime="11395550958" stopTime="11395650292" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.982145" startTime="11395650298" stopTime="11395749620" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.981541" startTime="11395650299" stopTime="11395749619" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.018972" startTime="11395749626" stopTime="11395849070" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.018368" startTime="11395749627" stopTime="11395849069" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.980938" startTime="11395849074" stopTime="11395948392" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.980635" startTime="11395849074" stopTime="11395948391" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.018368" startTime="11395948397" stopTime="11396047839" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.018066" startTime="11395948397" stopTime="11396047838" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.980635" startTime="11396047843" stopTime="11396147160" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.980333" startTime="11396047844" stopTime="11396147160" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998747" startTime="11396147164" stopTime="11396246541" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.998144" startTime="11396147165" stopTime="11396246540" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.017464" startTime="11396246545" stopTime="11396345984" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.017160" startTime="11396246546" stopTime="11396345984" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.001766" startTime="11396345988" stopTime="11396445375" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.001465" startTime="11396345988" stopTime="11396445374" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.964033" startTime="11396445379" stopTime="11396544641" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.963730" startTime="11396445379" stopTime="11396544640" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000257" startTime="11396544646" stopTime="11396644028" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999954" startTime="11396544646" stopTime="11396644027" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.016859" startTime="11396644034" stopTime="11396743471" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.016558" startTime="11396644034" stopTime="11396743470" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.007200" startTime="11396743513" stopTime="11396842918" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.006596" startTime="11396743514" stopTime="11396842917" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000257" startTime="11396842923" stopTime="11396942305" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999653" startTime="11396842923" stopTime="11396942303" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.966749" startTime="11396942350" stopTime="11397041621" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.966448" startTime="11396942351" stopTime="11397041621" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.001766" startTime="11397041626" stopTime="11397141013" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.001162" startTime="11397041626" stopTime="11397141011" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.979126" startTime="11397141025" stopTime="11397240337" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.978521" startTime="11397141026" stopTime="11397240336" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.010822" startTime="11397240342" stopTime="11397339759" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.010822" startTime="11397240342" stopTime="11397339759" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.026520" startTime="11397339765" stopTime="11397439234" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.025915" startTime="11397339766" stopTime="11397439233" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.977617" startTime="11397439239" stopTime="11397538546" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.977617" startTime="11397439239" stopTime="11397538546" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.019878" startTime="11397538550" stopTime="11397637997" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.019274" startTime="11397538551" stopTime="11397637996" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.981239" startTime="11397638001" stopTime="11397737320" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.980938" startTime="11397638001" stopTime="11397737319" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.980938" startTime="11397737325" stopTime="11397836643" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.980938" startTime="11397737325" stopTime="11397836643" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999653" startTime="11397836647" stopTime="11397936027" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999653" startTime="11397836647" stopTime="11397936027" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.016859" startTime="11397936033" stopTime="11398035470" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.016558" startTime="11397936033" stopTime="11398035469" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999653" startTime="11398035474" stopTime="11398134854" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999653" startTime="11398035474" stopTime="11398134854" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000860" startTime="11398134858" stopTime="11398234242" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.000559" startTime="11398134858" stopTime="11398234241" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000559" startTime="11398234245" stopTime="11398333628" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.000257" startTime="11398234245" stopTime="11398333627" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.984861" startTime="11398333632" stopTime="11398432963" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.973692" startTime="11398333668" stopTime="11398432962" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.011425" startTime="11398432973" stopTime="11398532392" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.011425" startTime="11398432973" stopTime="11398532392" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.003576" startTime="11398532397" stopTime="11398631790" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.003275" startTime="11398532397" stopTime="11398631789" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.018066" startTime="11398631802" stopTime="11398731243" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.017160" startTime="11398631803" stopTime="11398731241" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.975201" startTime="11398731253" stopTime="11398830552" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.974297" startTime="11398731254" stopTime="11398830550" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998747" startTime="11398830563" stopTime="11398929940" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.998144" startTime="11398830563" stopTime="11398929938" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.996332" startTime="11398929954" stopTime="11399029323" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.996031" startTime="11398929955" stopTime="11399029323" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.997238" startTime="11399029330" stopTime="11399128702" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.996634" startTime="11399029331" stopTime="11399128701" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.983049" startTime="11399128707" stopTime="11399228032" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.982748" startTime="11399128707" stopTime="11399228031" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.017765" startTime="11399228037" stopTime="11399327477" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.017765" startTime="11399228037" stopTime="11399327477" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.981541" startTime="11399327481" stopTime="11399426801" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.981239" startTime="11399327481" stopTime="11399426800" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000860" startTime="11399426804" stopTime="11399526188" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.000559" startTime="11399426804" stopTime="11399526187" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998446" startTime="11399526193" stopTime="11399625569" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.998446" startTime="11399526193" stopTime="11399625569" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.016859" startTime="11399625573" stopTime="11399725010" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.016558" startTime="11399625573" stopTime="11399725009" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999954" startTime="11399725014" stopTime="11399824395" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999954" startTime="11399725014" stopTime="11399824395" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999954" startTime="11399824399" stopTime="11399923780" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999352" startTime="11399824400" stopTime="11399923779" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.001766" startTime="11399923784" stopTime="11400023171" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.001465" startTime="11399923784" stopTime="11400023170" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.983353" startTime="11400023175" stopTime="11400122501" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.983353" startTime="11400023175" stopTime="11400122501" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.017464" startTime="11400122507" stopTime="11400221946" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.016558" startTime="11400122508" stopTime="11400221944" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.996634" startTime="11400221960" stopTime="11400321330" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.996031" startTime="11400221961" stopTime="11400321329" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.978521" startTime="11400321342" stopTime="11400420652" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.978220" startTime="11400321342" stopTime="11400420651" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.017464" startTime="11400420656" stopTime="11400520095" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.017160" startTime="11400420656" stopTime="11400520094" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999954" startTime="11400520099" stopTime="11400619480" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999954" startTime="11400520099" stopTime="11400619480" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998747" startTime="11400619486" stopTime="11400718863" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.998144" startTime="11400619487" stopTime="11400718862" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999954" startTime="11400718867" stopTime="11400818248" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999352" startTime="11400718868" stopTime="11400818247" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000257" startTime="11400818252" stopTime="11400917634" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999954" startTime="11400818252" stopTime="11400917633" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000257" startTime="11400917638" stopTime="11401017020" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.000257" startTime="11400917638" stopTime="11401017020" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.998747" startTime="11401017025" stopTime="11401116402" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.998446" startTime="11401017025" stopTime="11401116401" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.000860" startTime="11401116405" stopTime="11401215789" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.000860" startTime="11401116405" stopTime="11401215789" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.999653" startTime="11401215794" stopTime="11401315174" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.999352" startTime="11401215794" stopTime="11401315173" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.017160" startTime="11401315178" stopTime="11401414616" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.017160" startTime="11401315178" stopTime="11401414616" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.975201" startTime="11401414620" stopTime="11401513919" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.974899" startTime="11401414621" stopTime="11401513919" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.006897" startTime="11401513924" stopTime="11401613328" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.006596" startTime="11401513924" stopTime="11401613327" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.002068" startTime="11401613332" stopTime="11401712720" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.001465" startTime="11401613332" stopTime="11401712718" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.003275" startTime="11401712726" stopTime="11401812118" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.002068" startTime="11401712726" stopTime="11401812114" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.972183" startTime="11401812145" stopTime="11401911434" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.971882" startTime="11401812145" stopTime="11401911433" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.031349" startTime="11401911447" stopTime="11402010932" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.031048" startTime="11401911447" stopTime="11402010931" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.988483" startTime="11402010974" stopTime="11402110317" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.987881" startTime="11402010974" stopTime="11402110315" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="29.969465" startTime="11402110360" stopTime="11402209640" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.968863" startTime="11402110361" stopTime="11402209639" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="30.021086" startTime="11402209651" stopTime="11402309102" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="30.020784" startTime="11402209651" stopTime="11402309101" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="8.857716" startTime="11402309114" stopTime="11402338457" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="8.857414" startTime="11402309114" stopTime="11402338456" args=""> 
+			</block>
+		</block>
+		<block name="Audio: Internal Update" totalTimeMS="6.466015" startTime="11402338503" stopTime="11402359923" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="6.465713" startTime="11402338503" stopTime="11402359922" args=""> 
+			</block>
+		</block>
+	</thread>
+	<thread name="RenderThread" totalTimeMS="3083.619629" startTime="11392145041" stopTime="11402360163" totalBlocks="33359"> 
+		<block name="SRenderThread::ProcessCommands" totalTimeMS="9.980968" startTime="11398678244" stopTime="11398711308" args=""> 
+			<block name="Renderer:RT_BeginFrame" totalTimeMS="5.465322" startTime="11398683578" stopTime="11398701683" args=""> 
+				<block name="SRenderThread::ExecuteRenderThreadCommand" totalTimeMS="0.151538" startTime="11398691100" stopTime="11398691602" args=""> 
+				</block>
+				<block name="SRenderThread::ExecuteRenderThreadCommand" totalTimeMS="0.164820" startTime="11398693942" stopTime="11398694488" args=""> 
+					<block name="CCryDeviceWrapper::CreateTexture2D" totalTimeMS="0.148519" startTime="11398693958" stopTime="11398694450" args=""> 
+					</block>
+				</block>
+				<block name="SRenderThread::ExecuteRenderThreadCommand" totalTimeMS="0.170254" startTime="11398694490" stopTime="11398695054" args=""> 
+					<block name="CCryDeviceWrapper::CreateTexture2D" totalTimeMS="0.153953" startTime="11398694505" stopTime="11398695015" args=""> 
+					</block>
+				</block>
+			</block>
+			<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="2.834843" startTime="11398701915" stopTime="11398711306" args=""> 
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="8.593884" startTime="11398711311" stopTime="11398739780" args=""> 
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="8.577582" startTime="11398711364" stopTime="11398739779" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.434992" startTime="11398711377" stopTime="11398712818" args=""> 
+					<block name="Renderer:Shader_HWShaderActivate" totalTimeMS="0.418389" startTime="11398711389" stopTime="11398712775" args=""> 
+					</block>
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="8.093084" startTime="11398712966" stopTime="11398739776" args=""> 
+					<block name="Renderer:&quot;WAIT FOR GPU&quot;" totalTimeMS="1.995952" startTime="11398733105" stopTime="11398739717" args=""> 
+					</block>
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="12.094647" startTime="11398739781" stopTime="11398779847" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="8.704669" startTime="11398739782" stopTime="11398768618" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="3.388469" startTime="11398768620" stopTime="11398779845" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.137350" startTime="11398768634" stopTime="11398769089" args=""> 
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="3.176860" startTime="11398769319" stopTime="11398779843" args=""> 
+					<block name="Renderer:&quot;WAIT FOR GPU&quot;" totalTimeMS="2.881935" startTime="11398770202" stopTime="11398779749" args=""> 
+					</block>
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="5.294465" startTime="11398779847" stopTime="11398797386" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="4.540700" startTime="11398779849" stopTime="11398794891" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.752557" startTime="11398794892" stopTime="11398797385" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.456123" startTime="11398794903" stopTime="11398796414" args=""> 
+					<block name="Renderer:Shader_HWShaderActivate" totalTimeMS="0.434992" startTime="11398794916" stopTime="11398796357" args=""> 
+					</block>
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.242098" startTime="11398796581" stopTime="11398797383" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="2.579161" startTime="11398797386" stopTime="11398805930" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="2.321366" startTime="11398797387" stopTime="11398805077" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.257192" startTime="11398805078" stopTime="11398805930" args=""> 
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.217345" startTime="11398805208" stopTime="11398805928" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="874.943237" startTime="11398805931" stopTime="11401704360" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="874.363342" startTime="11398805931" stopTime="11401702439" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.578379" startTime="11401702443" stopTime="11401704359" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.173574" startTime="11401702463" stopTime="11401703038" args=""> 
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.322697" startTime="11401703287" stopTime="11401704356" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="4.260265" startTime="11401704360" stopTime="11401718473" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="3.590419" startTime="11401704362" stopTime="11401716256" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.668638" startTime="11401716257" stopTime="11401718472" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.352280" startTime="11401716269" stopTime="11401717436" args=""> 
+					<block name="Renderer:Shader_HWShaderActivate" totalTimeMS="0.332055" startTime="11401716281" stopTime="11401717381" args=""> 
+					</block>
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.266851" startTime="11401717585" stopTime="11401718469" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="30.033463" startTime="11401718474" stopTime="11401817966" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="23.450323" startTime="11401718474" stopTime="11401796158" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="6.581630" startTime="11401796161" stopTime="11401817964" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.158481" startTime="11401816015" stopTime="11401816540" args=""> 
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.362242" startTime="11401816761" stopTime="11401817961" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="2.939893" startTime="11401817966" stopTime="11401827705" args=""> 
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="2.924800" startTime="11401818015" stopTime="11401827704" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.354393" startTime="11401818025" stopTime="11401819199" args=""> 
+					<block name="Renderer:Shader_HWShaderActivate" totalTimeMS="0.341111" startTime="11401818033" stopTime="11401819163" args=""> 
+					</block>
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="2.533881" startTime="11401819307" stopTime="11401827701" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="3.901947" startTime="11401827706" stopTime="11401840632" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="3.602796" startTime="11401827706" stopTime="11401839641" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.298246" startTime="11401839643" stopTime="11401840631" args=""> 
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.230627" startTime="11401839865" stopTime="11401840629" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="4.952750" startTime="11401840633" stopTime="11401857040" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="4.734198" startTime="11401840634" stopTime="11401856317" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.217647" startTime="11401856318" stopTime="11401857039" args=""> 
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.168442" startTime="11401856478" stopTime="11401857036" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="7.416900" startTime="11401857040" stopTime="11401881610" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="6.775128" startTime="11401857041" stopTime="11401879485" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.639960" startTime="11401879488" stopTime="11401881608" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.131313" startTime="11401879536" stopTime="11401879971" args=""> 
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.412050" startTime="11401880234" stopTime="11401881599" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="2.140547" startTime="11401881610" stopTime="11401888701" args=""> 
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="2.122133" startTime="11401881670" stopTime="11401888700" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.393032" startTime="11401881681" stopTime="11401882983" args=""> 
+					<block name="Renderer:Shader_HWShaderActivate" totalTimeMS="0.377939" startTime="11401881690" stopTime="11401882942" args=""> 
+					</block>
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="1.691669" startTime="11401883093" stopTime="11401888697" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="19.940201" startTime="11401888701" stopTime="11401954757" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="10.351963" startTime="11401888702" stopTime="11401922995" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="9.585822" startTime="11401923000" stopTime="11401954755" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="5.449021" startTime="11401925441" stopTime="11401943492" args=""> 
+					<block name="SRenderThread::ExecuteRenderThreadCommand" totalTimeMS="0.129803" startTime="11401932798" stopTime="11401933228" args=""> 
+					</block>
+					<block name="SRenderThread::ExecuteRenderThreadCommand" totalTimeMS="0.168442" startTime="11401935908" stopTime="11401936466" args=""> 
+						<block name="CCryDeviceWrapper::CreateTexture2D" totalTimeMS="0.150028" startTime="11401935922" stopTime="11401936419" args=""> 
+						</block>
+					</block>
+					<block name="SRenderThread::ExecuteRenderThreadCommand" totalTimeMS="0.164518" startTime="11401936469" stopTime="11401937014" args=""> 
+						<block name="CCryDeviceWrapper::CreateTexture2D" totalTimeMS="0.150330" startTime="11401936484" stopTime="11401936982" args=""> 
+						</block>
+					</block>
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="3.324775" startTime="11401943738" stopTime="11401954752" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="8.669652" startTime="11401954757" stopTime="11401983477" args=""> 
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="8.638862" startTime="11401954858" stopTime="11401983476" args=""> 
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="8.563092" startTime="11401955106" stopTime="11401983473" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="7.404221" startTime="11401983478" stopTime="11402008006" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="6.921836" startTime="11401983478" stopTime="11402006408" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.482083" startTime="11402006408" stopTime="11402008005" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.133426" startTime="11402006422" stopTime="11402006864" args=""> 
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.292208" startTime="11402007035" stopTime="11402008003" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="4.571793" startTime="11402008006" stopTime="11402023151" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="3.814104" startTime="11402008007" stopTime="11402020642" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.756783" startTime="11402020643" stopTime="11402023150" args=""> 
+				<block name="Renderer:RT_BeginFrame" totalTimeMS="0.453104" startTime="11402020653" stopTime="11402022154" args=""> 
+					<block name="Renderer:Shader_HWShaderActivate" totalTimeMS="0.439520" startTime="11402020662" stopTime="11402022118" args=""> 
+					</block>
+				</block>
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.266851" startTime="11402022263" stopTime="11402023147" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="2.862314" startTime="11402023151" stopTime="11402032633" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="1.999876" startTime="11402023182" stopTime="11402029807" args=""> 
+			</block>
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="0.852777" startTime="11402029807" stopTime="11402032632" args=""> 
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="0.806592" startTime="11402029958" stopTime="11402032630" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="2.829712" startTime="11402032634" stopTime="11402042008" args=""> 
+			<block name="SRenderThread::ProcessCommands" totalTimeMS="2.814317" startTime="11402032684" stopTime="11402042007" args=""> 
+				<block name="CD3D9Renderer::RT_EndFrame" totalTimeMS="2.770847" startTime="11402032826" stopTime="11402042005" args=""> 
+				</block>
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="86.965790" startTime="11402042008" stopTime="11402330100" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="86.959152" startTime="11402042009" stopTime="11402330079" args=""> 
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="2.424001" startTime="11402330185" stopTime="11402338215" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="2.419171" startTime="11402330186" stopTime="11402338200" args=""> 
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="0.162707" startTime="11402338231" stopTime="11402338770" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="0.161499" startTime="11402338231" stopTime="11402338766" args=""> 
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="5.071686" startTime="11402338938" stopTime="11402355739" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="5.050857" startTime="11402338938" stopTime="11402355670" args=""> 
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="0.139765" startTime="11402355757" stopTime="11402356220" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="0.137350" startTime="11402355757" stopTime="11402356212" args=""> 
+			</block>
+		</block>
+		<block name="Loop: RenderThread" totalTimeMS="1.186644" startTime="11402356232" stopTime="11402360163" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="1.186644" startTime="11402356232" stopTime="11402360163" args=""> 
+			</block>
+		</block>
+	</thread>
+	<thread name="Streaming File IO InMemory" totalTimeMS="3083.619629" startTime="11392145041" stopTime="11402360163" totalBlocks="2"> 
+		<block name="Wait - StreamIO New Request" totalTimeMS="6.584649" startTime="11402338350" stopTime="11402360163" args=""> 
+		</block>
+	</thread>
+	<thread name="Streaming File IO HDD" totalTimeMS="3083.619629" startTime="11392145041" stopTime="11402360163" totalBlocks="2"> 
+		<block name="Wait - StreamIO New Request" totalTimeMS="6.579819" startTime="11402338366" stopTime="11402360163" args=""> 
+		</block>
+	</thread>
+</root>
