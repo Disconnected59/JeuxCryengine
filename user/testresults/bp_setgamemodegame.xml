@@ -1,0 +1,28 @@
+<root>
+	<thread name="Main" totalTimeMS="25.743614" startTime="10164488125" stopTime="10164573406" totalBlocks="50"> 
+		<block name="D:/jk/workspace/gamesdk_release/Code/Sandbox/EditorQt/GameEngine.cpp" totalTimeMS="25.727011" startTime="10164488179" stopTime="10164573405" args=""> 
+			<block name="CLog::LogV" totalTimeMS="0.283454" startTime="10164491931" stopTime="10164492870" args=""> 
+			</block>
+			<block name="D:/jk/workspace/gamesdk_release/Code/CryEngine/CryAction/CryAction.cpp" totalTimeMS="0.332659" startTime="10164492982" stopTime="10164494084" args=""> 
+				<block name="D:/jk/workspace/gamesdk_release/Code/CryEngine/CryAction/ActionGame.cpp" totalTimeMS="0.253871" startTime="10164493009" stopTime="10164493850" args=""> 
+				</block>
+			</block>
+			<block name="D:/jk/workspace/gamesdk_release/Code/CryEngine/CryAISystem/CAISystem.cpp" totalTimeMS="0.313943" startTime="10164498965" stopTime="10164500005" args=""> 
+			</block>
+			<block name="CEntitiesComponentPropertyCache::StoreEntities" totalTimeMS="0.118936" startTime="10164500112" stopTime="10164500506" args=""> 
+			</block>
+		</block>
+	</thread>
+	<thread name="RenderThread" totalTimeMS="25.743614" startTime="10164488125" stopTime="10164573406" totalBlocks="6"> 
+		<block name="Loop: RenderThread" totalTimeMS="25.641281" startTime="10164488464" stopTime="10164573406" args=""> 
+			<block name="SRenderThread::WaitFlushCond" totalTimeMS="25.641281" startTime="10164488464" stopTime="10164573406" args=""> 
+			</block>
+		</block>
+	</thread>
+	<thread name="AudioMainThread" totalTimeMS="25.743614" startTime="10164488125" stopTime="10164573406" totalBlocks="3"> 
+		<block name="Audio: Internal Update" totalTimeMS="29.966749" startTime="10164555957" stopTime="10164655228" args=""> 
+			<block name="Wait - Audio Update" totalTimeMS="29.965542" startTime="10164555958" stopTime="10164655225" args=""> 
+			</block>
+		</block>
+	</thread>
+</root>

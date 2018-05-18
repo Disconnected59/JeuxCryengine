@@ -1,0 +1,8 @@
+<AssetMetadata version="0" type="Xml" guid="192a1b4b-d5da-7495-d4de-5e7efddc5a12">
+ <Files>
+  <File path="Environment.xml"/>
+ </Files>
+ <Details>
+  <Detail name="rootTag">Environment</Detail>
+ </Details>
+</AssetMetadata>
